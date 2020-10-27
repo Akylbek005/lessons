@@ -3,7 +3,7 @@
 # string = 'hello wirld'
 # print(string.count('l'))
 # new_list = list(list)
-# print(new_list)
+# print(new_list),оно больше 10")
 
 # list = [1,2,3,4,5,6,7,8]
 # list.reverse()

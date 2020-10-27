@@ -6,9 +6,9 @@
 #2 задание
 #print(36 % 5)
 
-#3 задание# a = len(number)
+#3 задание#
 
-# a = input("Вве/home/akylbek/PycharmProjects/pythonProject/main.pyдите все что хотите:" )
+# a = input("Введите все что хотите:" )
 # b = (a [::-1])
 # if a == b:
 #     print('Это полиндром')
@@ -31,11 +31,7 @@
 
 #7 задание ***
 # number = input("введите 10 цифр:")
-# a = len(number)
-# if 9 < a:
-#      print(number[9])
-# else:
-#     print("Напишите больше цифр")
+# print(num[9:10])
 
 
 #8 заданиe
@@ -53,7 +49,7 @@
 
 #9 задание
 # a = int(input("Введите любое число:"))
-# print(1+a)/home/akylbek/PycharmProjects/pythonProject/main.py
+# print(1+a)
 # print(a-1)
 
 #10 задание
@@ -61,8 +57,8 @@
 # b = input("Введите второе число:")
 # if a < b:
 #     print(a, "<", b)
-# elif a > b:laptos.update(laptos2)
-#     print(a, "/home/akylbek/PycharmProjects/pythonProject/main.py>" ,b)
+# elif a > b:
+#     print(a, ">" ,b)
 # else:
 #     print(a ,"равно",b)
 
@@ -74,25 +70,3 @@
 #    print("Ваше число отрицательное")
 #else:
 #    print('Ваше число не является ни положительным, ни отрицательным')
-
-
-
-# number = input("введите 10 цифр:")
-# a = len(number)
-# if 9 < a:# number = input("введите 10 цифр:")
-# a = len(number/home/akylbek/PycharmProjects/pythonProject/main.py)# a = len(number)
-
-# if 9 < a:
-#     print(number[9])
-# else:
-#     print("Напишите больше цифр")
-
-#     print(number[9])
-# else:
-#     print("Напишите больше цифр")
-# number = input("введите 10 цифр:")
-# a = len(number)
-# if 9 < a:
-#     print(number[9])
-# else:
-#     print("Напишите больше цифр")
